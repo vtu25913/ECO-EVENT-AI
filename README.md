@@ -401,7 +401,7 @@ ecoevent-ai/
 
 ## 📄 License
 
-This project is part of an IBM BOP (Business Operations Platform) demonstration.
+This project is part of an 1M1B Internship demonstration.
 
 ---
 
